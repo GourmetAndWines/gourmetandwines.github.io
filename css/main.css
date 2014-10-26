@@ -188,12 +188,14 @@ textarea {
         margin-top: -102.5px;
         margin-left: -100px;
     }
+    
+    .main-image {
+        width: 200px;
+        height: 205px;
+    }
 }
 
-.main-image {
-    width: 200px;
-    height: 205px;
-}
+
 
 /* ==========================================================================
    Print styles
