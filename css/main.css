@@ -178,7 +178,7 @@ textarea {
    Mobile
    ========================================================================== */
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 480px) {
     .main {
         width: 200px;
         height: 205px;
@@ -188,7 +188,7 @@ textarea {
         margin-top: -102.5px;
         margin-left: -100px;
     }
-    
+
     .main-image {
         width: 200px;
         height: 205px;
