@@ -1,2 +1,1 @@
-<html style="background-color:#000">
-</html>
+<?php echo file_get_contents('index.html'); ?>
